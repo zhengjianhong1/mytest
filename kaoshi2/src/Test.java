@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+﻿import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -79,5 +79,6 @@ public class Test {
         System.out.println("绝对值大于100的偶数的个数" + l + "个");
         System.out.println("负整数或偶数的数的个数" + ss + "个");
         System.out.println("------------------------------------------");
+        System.out.println("---------------------你好啊---------------------");
     }
 }
